@@ -1,0 +1,16 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "Random Quote Generator Full Stack Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
